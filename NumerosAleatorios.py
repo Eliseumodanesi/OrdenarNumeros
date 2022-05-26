@@ -6,7 +6,7 @@ print("Numeros Aleatorios de 1 a 50")
 numeroAleatorio =list(range(1,50))
 
 random.shuffle(numeroAleatorio)
-print("\n", numeroAleatorio)
+print("\n\n", numeroAleatorio)
 
 
 
