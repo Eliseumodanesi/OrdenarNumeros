@@ -99,5 +99,5 @@ depois = time.time()
 
 totalemMs =(depois - antes)*1000
 
-print("QuickSort o Tempo de Execucao em MS : %0.2f" % totalemMs)
+print("\nQuickSort o Tempo de Execucao em MS : %0.2f" % totalemMs)
 
